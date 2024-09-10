@@ -1,0 +1,3 @@
+000001, Pipeweed, Long Bottom Leaf, 600.0
+000002, Lemba, Elven Wayfare Bread, 200.0
+000003, Wine, Woodland Elf Wine, 400.0
